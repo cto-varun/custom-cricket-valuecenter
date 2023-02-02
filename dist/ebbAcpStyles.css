@@ -1,0 +1,141 @@
+.display-none {
+    display: none;
+}
+.ebb-acp-card {
+    min-height: 100%;
+    max-height: 100%;
+    text-align: center;
+    background-color: #eef9ea;
+}
+.ebb-acp-card .ant-card-body {
+    background-color: #eef9ea;
+}
+
+.ebb-acp-card-head {
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    color: #262626;
+}
+
+.ebb-acp-code-title {
+    border-top: 1px dashed #135200;
+    border-bottom: 1px dashed #135200;
+    padding: 16px 0;
+}
+
+.ebb-acp-code-title h5.ant-typography {
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    color: #262626;
+    height: 42px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.ebb-acp-code-date {
+    padding: 16px 0 0;
+}
+
+.ebb-acp-code-date span.ant-typography {
+    font-size: 11px;
+    line-height: 21x;
+    font-weight: 400;
+}
+
+.ebb-acp-summary {
+    min-height: 100%;
+    max-height: 100%;
+    width: 308px;
+    text-align: left;
+    background-color: #eef9ea !important;
+}
+
+.ebb-acp-summary h5.ant-typography {
+    font-size: 15px;
+    line-height: 23px;
+    color: #17004f;
+}
+
+.ebb-acp-summary .ant-card-head {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.ebb-acp-summary .ant-card-body {
+    height: auto;
+    background-color: inherit;
+    padding: 8px 16px 24px;
+}
+
+.ebb-acp-summary .ant-card-head-wrapper .ant-card-head-title {
+    padding-bottom: 0;
+    white-space: normal;
+}
+
+.ebb-acp-summary .ant-card-head-wrapper .ant-card-extra {
+    margin-top: -10px;
+    padding-top: 0;
+}
+
+.ebb-acp-summary .react-grid-layout .ant-card-body {
+    height: auto;
+}
+
+.ebb-acp-summary .ant-card-head-wrapper .ant-card-extra span {
+    width: 50px;
+    height: 44px;
+}
+
+.ebb-acp-summary .ant-divider-horizontal {
+    margin: 0 0 12px;
+    border: none;
+    border-bottom: 1px dashed #135200;
+}
+
+.ebb-acp-summary .ant-card-body .footer {
+    margin: 0 -16px;
+}
+
+.ebb-acp-summary .ant-card-body .footer .ant-typography-success {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+}
+
+.ebb-acp-summary .ant-card-body .footer .start-date {
+    font-size: 11px;
+    line-height: 22px;
+    font-weight: 300;
+    color: #595959;
+}
+
+.value-center-item-container {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+}
+
+.value-center-item-container > div {
+    margin: 5px;
+}
+
+.column-key {
+    width: 160px;
+    padding: 2px 0px;
+}
+
+.column-value {
+    padding: 2px 0px;
+}
+.plan-summary-box {
+    padding-bottom: 5px;
+}
+.plan-summary-box > div {
+    display: flex;
+    flex-direction: row;
+}

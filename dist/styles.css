@@ -1,0 +1,347 @@
+.display-none {
+    display: none;
+}
+.mt-3,
+.my-3 {
+    margin-top: 1rem !important;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.mt-4,
+.my-4 {
+    margin-top: 1.5rem !important;
+}
+
+.heading-dashboard {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.text-primary {
+    color: #007bff !important;
+}
+
+.mt-2,
+.my-2 {
+    margin-top: 0.5rem !important;
+}
+
+.flex-row {
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+/* Goutham CSS */
+
+.special-align-1 {
+    text-align: center;
+    margin-bottom: 6px;
+    margin-right: 5px;
+    width: 180px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 5px;
+    background: #fff1f0;
+    border-radius: 2px;
+}
+.special-align-2 {
+    text-align: center;
+    margin-bottom: 6px;
+    margin-right: 5px;
+    width: 180px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 5px;
+    background: #fff7e6;
+    border-radius: 2px;
+}
+.special-align-3 {
+    text-align: center;
+    margin-bottom: 6px;
+    margin-right: 5px;
+    width: 180px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 5px;
+    background: #fff2e8;
+    border-radius: 2px;
+}
+.special-align1 {
+    margin-right: 5px;
+}
+.value-view {
+    display: flex;
+    flex-direction: row;
+}
+.element {
+    shape-outside: circle(50%);
+}
+#colorstrip {
+    width: 46px;
+    height: 10px;
+    background: #b7eb8f;
+    margin-bottom: 8px;
+}
+.ticket-internal {
+    padding-top: 5px;
+}
+.special-setup {
+    background-color: #f7ecff;
+    width: 300px;
+    padding-left: 10px;
+    border-radius: 2px;
+}
+.special-view {
+    text-align: left;
+    width: 250px;
+}
+.divide-setup {
+    font-style: normal;
+    font-weight: 200;
+    font-size: 15px;
+    line-height: 18px;
+    color: #135200;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+.photo {
+    margin-left: 20px;
+    align-items: padding-right;
+    height: 30px;
+    width: 30px;
+    margin-top: -20px;
+}
+.setup-view {
+    background-color: #fff;
+    padding: 0px 20px 0px 20px;
+}
+h5.ant-typography.text-setup {
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #135200;
+}
+.header-title h5 {
+    color: #451d8c;
+    font-weight: 500;
+    float: left;
+}
+.ant-divider-dashed {
+    border-width: 2px 0 0 !important;
+    border-color: #d3d3c3 !important;
+}
+.ant-btn-background-ghost {
+    border-color: #fef1ef !important;
+}
+/* .ant-btn:hover, .ant-btn:focus{
+    color: #FEF1EF !important;
+} */
+.button-setup {
+    padding-bottom: 15px;
+}
+
+.ant-avatar-square {
+    border-radius: 8px !important;
+}
+.value-center-avatar {
+    position: relative;
+    bottom: 36px;
+    left: 22px;
+}
+/* .ant-card-body {
+    padding: 10px !important;
+} */
+
+.value-center-layout {
+    background-color: white;
+    padding: 0 20px 20px;
+}
+
+.special-generate-code {
+    min-height: 100%;
+    max-height: 100%;
+    width: 308px;
+    text-align: left;
+    background-color: #f7ecff !important;
+}
+
+.special-generate-code h5.ant-typography {
+    font-size: 15px;
+    line-height: 23px;
+    color: #17004f;
+}
+
+.special-generate-code .ant-card-head {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.special-generate-code .ant-card-body {
+    height: auto;
+    background-color: inherit;
+    padding: 8px 16px 24px;
+}
+
+.special-generate-code .ant-card-head-wrapper .ant-card-head-title {
+    padding-bottom: 0;
+    white-space: normal;
+}
+
+.special-generate-code .ant-card-head-wrapper .ant-card-extra {
+    margin-top: -10px;
+    padding-top: 0;
+}
+
+.special-generate-code .react-grid-layout .ant-card-body {
+    height: auto;
+}
+
+.special-generate-code .ant-card-head-wrapper .ant-card-extra span {
+    width: 55px;
+    height: 50px;
+}
+
+.special-generate-code .ant-card-head-wrapper .ant-card-extra span img {
+    width: 56px;
+    height: 38px;
+}
+
+.special-generate-code .ant-divider-horizontal {
+    margin: 0 0 12px;
+    border: none;
+    border-bottom: 1px dashed #c9b9d4;
+}
+
+.special-generate-code .ant-card-body .footer {
+    margin: 0 -16px;
+}
+
+.special-generate-code .ant-card-body .footer .ant-typography-success {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+}
+
+.special-generate-code .ant-card-body .footer .start-date {
+    font-size: 11px;
+    line-height: 22px;
+    font-weight: 300;
+    color: #595959;
+}
+
+.other-generate-code {
+    height: 200px;
+    text-align: center;
+    background-color: #fff2e8;
+}
+
+.other-generate-code .ant-card-body {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.other-generate-code hr {
+    border: none;
+    border-top: 1px dashed white;
+    margin-bottom: 4px;
+}
+
+.coupon-list {
+    height: 88px;
+    overflow: auto;
+}
+
+.coupon-discount {
+    display: block;
+    padding-bottom: 10px;
+}
+
+.coupon-discount svg {
+    width: 36px;
+    height: 36px;
+}
+
+.coupon-none {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.coupon-available {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.generate-code-title {
+    border-top: 1px dashed #135200;
+    border-bottom: 1px dashed #135200;
+    padding: 16px 0;
+}
+
+.generate-code-title h5.ant-typography {
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    color: #262626;
+
+    height: 42px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.generate-code-date {
+    padding: 16px 0 0;
+}
+
+.generate-code-date span.ant-typography {
+    font-size: 11px;
+    line-height: 21x;
+    font-weight: 400;
+}
+
+.generate-code-action .ant-typography {
+    text-align: center;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.special-generate-code .hbo-card-head {
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    color: #391085;
+}
+
+.special-generate-code .hbo-card-text {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 0.04em;
+    color: #120338;
+}
+
+.special-generate-code .hbo-button {
+    margin-top: 12px;
+    border: 1px solid #52c41a;
+    color: #389e0d;
+}
+
+.value-center-item-container {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+}
+
+.value-center-item-container > div {
+    margin: 5px;
+}
